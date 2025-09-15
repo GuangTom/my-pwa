@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180">
+  <rect width="180" height="180" fill="#2c3e50" rx="45" ry="45"/>
+  <text x="90" y="110" font-family="Arial" font-size="80" font-weight="bold" text-anchor="middle" fill="#ffffff">K</text>
+  <path d="M45,45 L135,45 L135,135 L45,135 Z" stroke="#42b883" stroke-width="8" fill="none" />
+</svg>
